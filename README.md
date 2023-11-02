@@ -1,7 +1,7 @@
 # Seoul-GIS-Data
 data from Korea National Spatial Data Infrastructure 
 
-| item | Source | Note |
+| Item | Source | Note |
 | ----------- | ----------- | ----------- |
 | Building age 건축물연령| http://openapi.nsdi.go.kr/nsdi/eios/ServiceDetail.do?svcSe=F&svcId=F025 | Column A28 |
 | Building use | http://data.nsdi.go.kr/dataset/12623 | Column “USABILITY” stands for Building use |
@@ -10,7 +10,4 @@ data from Korea National Spatial Data Infrastructure
 | Green area | http://data.nsdi.go.kr/dataset/12783 |  |
 | Water Area 수변 | http://data.nsdi.go.kr/dataset/12845 |  |
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title |
-| List        | Here's a list! <ul><li>Item one.</li><li>Item two.</li></ul> |
+
